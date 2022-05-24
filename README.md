@@ -9,12 +9,12 @@ Clone Coding
 
 ## Test API
 https://reqres.in
-
-#
-#
-#
-
-
+  
+    
+      
+        
+  
+  
 # 생각해보기
 ### 흐름
 1. ViewModel 에서 Class를 ObservableObject(다른 View가 관찰할 수 있는 객체로 만든다는 듯?)로 만들고 변수를 Publish(출판) 하면 
